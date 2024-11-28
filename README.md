@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anmol</h1>
 <h3 align="center">I'm a MERN & Nextjs Developer. I have honed my skills in both frontend and backend dev, creating dynamic and responsive websites.</h3>
-
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 - 🌱 I’m currently learning **React-native, electronjs**
 
 - 👨‍💻 All of my projects are available at [https://anmolpaweriya.vercel.app/](https://anmolpaweriya.vercel.app/)
